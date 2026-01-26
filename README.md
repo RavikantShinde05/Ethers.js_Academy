@@ -1,4 +1,4 @@
-# Ethers.js_Academy
+# Ethers.js_Academy (https://ravikantss05-ethersjs-academy.netlify.app/)
 
 A hands-on learning platform designed to help developers understand and master the **ethers.js** library by writing real code and seeing real results.
 
