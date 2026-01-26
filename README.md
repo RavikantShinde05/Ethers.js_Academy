@@ -1,8 +1,7 @@
-# Ethers.js_Academy (https://ravikantss05-ethersjs-academy.netlify.app/)
+# Ethers.js_Academy 
 
 A hands-on learning platform designed to help developers understand and master the **ethers.js** library by writing real code and seeing real results.
-
-This project focuses on **learning by doing** you write code snippets, execute them instantly, and observe the output directly in the console.
+This project focuses on **learning by doing** you write code snippets, execute them instantly, and observe the output directly in the console. This the live project demo :(https://ravikantss05-ethersjs-academy.netlify.app/)
 
 
 ##  About the Project
