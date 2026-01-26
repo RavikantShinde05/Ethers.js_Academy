@@ -1,13 +1,9 @@
 # Ethers.js_Academy
-This repo is a project for learning ethers.js in a very easy and practical way.
-
-# Ethers.js Learning Platform 
 
 A hands-on learning platform designed to help developers understand and master the **ethers.js** library by writing real code and seeing real results.
 
 This project focuses on **learning by doing** you write code snippets, execute them instantly, and observe the output directly in the console.
 
----
 
 ##  About the Project
 
