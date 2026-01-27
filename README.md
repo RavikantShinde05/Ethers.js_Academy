@@ -2,7 +2,8 @@
 
 A hands-on learning platform designed to help developers understand and master the **ethers.js** library by writing real code and seeing real results.
 This project focuses on **learning by doing** you write code snippets, execute them instantly, and observe the output directly in the console. 
-This the live project 
+
+This is the live project link:- 
 - (https://ravikantss05-ethersjs-academy.netlify.app/)
 
 
