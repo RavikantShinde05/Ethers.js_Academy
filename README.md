@@ -6,6 +6,8 @@ This project focuses on **learning by doing** you write code snippets, execute t
 ### This is the live project link:-
 - (https://ravikantss05-ethersjs-academy.netlify.app/)
 
+<img width="234" height="128" alt="favicon" src="https://github.com/user-attachments/assets/90164ac1-6c61-438a-a0f6-2c33aa14437d" />
+
 
 ##  About the Project
 
